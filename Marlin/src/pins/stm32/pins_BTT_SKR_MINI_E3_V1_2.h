@@ -27,6 +27,8 @@
 
 #define NEOPIXEL_PIN       PC7  // LED driving pin
 
+#define PS_ON_PIN PC12 // Power Supply Control
+
 /**
  * TMC2208/TMC2209 stepper drivers
  */
